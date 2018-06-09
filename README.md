@@ -6,7 +6,7 @@ The .exe file opens a screen where you only have to fill in the number of charac
 The program will generator a random password!
 
 # How to start?
-1. Download the PasswordGenerator.exe and open it!
+1. [Download](http://www.mediafire.com/file/7dd4pusjn5ri4ye/PasswordGenerator.exe/file) the PasswordGenerator.exe and open it!
 2. Fill in a number to provide the number of characters!
 Done! The program generated a custom password for you!
 
