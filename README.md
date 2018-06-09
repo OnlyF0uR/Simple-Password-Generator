@@ -2,7 +2,7 @@
 This simple console application has been written by jerskisnow!
 
 # What is this doing?
-The .exe file opens a screen where you only have to fill in the number of characters you want!
+The PasswordGenerator.exe file opens a screen where you only have to fill in the number of characters you want!
 The program will generator a random password!
 
 # How to start?
