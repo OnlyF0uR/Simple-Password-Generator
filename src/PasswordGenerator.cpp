@@ -12,7 +12,7 @@ int ssize = sizeof(alphanum) - 1;
 int main()
 {
 	int length;
-	cout<<"How much characters do you want?"<<endl;
+	cout<<"How many characters do you want?"<<endl;
 	cin>>length;
 
 	cout<<"Password: ";
