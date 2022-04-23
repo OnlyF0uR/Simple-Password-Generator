@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+
 using namespace std;
 
 static const char alphanum[] =
@@ -12,19 +13,17 @@ int ssize = sizeof(alphanum) - 1;
 int main()
 {
 	int length;
-	cout<<"How many characters do you want?"<<endl;
+	cout << "How many characters do you want?" << endl;
 	cin>>length;
 
-	cout<<"Password: ";
+	cout << "Password: ";
 
 	for (int i = 0; i < length; i++) {
 		cout << alphanum[rand() % ssize];
 	}
 
-	cout<<"\n\nThis program has been written by jerskisnow!"<<endl;
+	cout << "\n\nThis program has been written by jerskisnow!" << endl;
 
 	system("pause");
-
-
 	return 0;
 }
